@@ -12,3 +12,4 @@ C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Pt2\Arrays4\obj\Debug\ne
 C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Pt2\Arrays4\obj\Debug\net8.0\Arrays4.pdb
 C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Pt2\Arrays4\obj\Debug\net8.0\Arrays4.genruntimeconfig.cache
 C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Pt2\Arrays4\obj\Debug\net8.0\ref\Arrays4.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\microsoft-course\Pt2\Arrays4\obj\Debug\net8.0\Arrays4.sourcelink.json
